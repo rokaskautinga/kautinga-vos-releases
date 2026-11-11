@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.0.3/VOS_Setup_v1.0.3.exe",
-  "notes": "Nauja funkcija: detalių nurašymas (brokas, neatitinkantis kiekis).",
+  "version": "1.0.4",
+  "url": "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.0.4/VOS_Setup_v1.0.4.exe",
+  "notes": "Vienodos proceso būsenos; pasenusi būsena Paruoštas dengti pašalinta.",
   "mandatory": true
 }
