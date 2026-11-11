@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.0.5/VOS_Setup_v1.0.5.exe",
-  "notes": "Naujas diegimas be administratoriaus slaptazodzio; tolesni atnaujinimai bus tylus. Pirmo atnaujinimo metu patvirtinkite senos versijos pasalinima.",
+  "version": "1.0.6",
+  "url": "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.0.6/VOS_Setup_v1.0.6.exe",
+  "notes": "Programa nebelieka veikti fone uzdarius langa.",
   "mandatory": true
 }
