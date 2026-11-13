@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.0.6/VOS_Setup_v1.0.6.exe",
-  "notes": "Pataisyta programos ikona; programa nebelieka veikti fone uzdarius langa.",
+  "version": "1.0.7",
+  "url": "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.0.7/VOS_Setup_v1.0.7.exe",
+  "notes": "Detaliu importas is Excel; patikimesnis ryšys su duomenu baze.",
   "mandatory": true
 }
