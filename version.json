@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.0.8/VOS_Setup_v1.0.8.exe",
-  "notes": "Pozicijų terminai, užsakymų įkėlimas iš kliento Excel, švaresnis kodas.",
+  "version": "1.0.9",
+  "url": "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.0.9/VOS_Setup_v1.0.9.exe",
+  "notes": "• Užsakymų įkėlimas iš PDF važtaraščių, PDF brėžiniai\n• Kainos koeficientas pozicijoms (x1 / x1,5 / x2 / x5)\n• Procesų istorija (Paruošėjas, Anoduotojas, Pakuotojas, Pasyvuotojas)\n• Teksto žymėjimas ir kopijavimas visose darbo vietose\n• Paruošėjas gali keisti kiekį; vėluojančios pozicijos raudonai",
   "mandatory": true
 }
