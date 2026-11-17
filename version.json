@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "url": "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.0.9/VOS_Setup_v1.0.9.exe",
-  "notes": "• Užsakymų įkėlimas iš PDF važtaraščių, PDF brėžiniai\n• Kainos koeficientas pozicijoms (x1 / x1,5 / x2 / x5)\n• Procesų istorija (Paruošėjas, Anoduotojas, Pakuotojas, Pasyvuotojas)\n• Teksto žymėjimas ir kopijavimas visose darbo vietose\n• Paruošėjas gali keisti kiekį; vėluojančios pozicijos raudonai",
+  "version": "1.0.10",
+  "url": "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.0.10/VOS_Setup_v1.0.10.exe",
+  "notes": "• Instrukcijos programoje su paieška (mygtukas „📖 Instrukcija“)\n• Vienas vartotojas – vienas prisijungimas; procesų užrakinimas\n• Gamybos lapo spausdinimas; kelių detalių įtraukimas į procesą iš karto\n• Pakuotojas ir Anoduotojas mato klientus; ilgi detalių kodai; žalia spalva\n• Daug smulkių pataisų ir patobulinimų",
   "mandatory": true
 }
