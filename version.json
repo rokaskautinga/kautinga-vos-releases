@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.1",
-    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.1.1/VOS_Setup_v1.1.1.exe",
-    "notes":  "• Užsakymų lange: filtras Tik vėluojančios ir suvestinė rodoma/iš viso (pozicijos, kiekis, plotas, kaina)\n• Aliuminio pasyvacijos procesams rodomi pasyvacijos pavadinimai (Laukia pasyvacijos, Pasyvacija vyksta…)\n• Klientas procesų sąraše Paruošėjui ir Anoduotojui\n• Atnaujintos instrukcijos",
+    "version":  "1.2.0",
+    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.2.0/VOS_Setup_v1.2.0.exe",
+    "notes":  "• Naujas UI Anoduotojui, Paruošėjui ir Pakuotojui: procesų sąrašas viršuje, turinys apačioje, įsimenama proporcija\n• Pakuotojas: proceso pozicijos paprastoje lentelėje (terminas su valandomis, važtaraštis, brėžinys, pastabos)\n• Brokas: dubliavimas į perdarymo procesą, nurodoma kieno kaltė (mūsų kaltė 0 €, kliento kaltė mokamai)\n• Anoduotojas: sumažinti ir nuspalvinti vonių laukai, prognozuojamo storio skaičiuoklė\n• Gamybos vadovas: procesų paieška ir filtrai, žalsvos užbaigtos pozicijos, Tik vėluojančios\n• Pasyvuotojas: brėžiniai pozicijose, istorijoje ir detalių pasirinkime\n• Kopijavimas lentelėse: kopijuojamas pažymėtas langelis, galima pažymėti dalį teksto\n• Atnaujintos instrukcijos",
     "mandatory":  true
 }
