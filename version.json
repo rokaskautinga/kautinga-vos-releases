@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.0",
-    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.1.0/VOS_Setup_v1.1.0.exe",
-    "notes":  "• Brokas: viso proceso ar dalies pozicijų (net dalinio kiekio) grąžinimas į anodavimą perdarymui\n• Pakavimas žymimas kiekvienai pozicijai atskirai; procesas užsibaigia pats\n• Smėliavimas su kaina ir koeficientu užsakymuose\n• Chemijos papildymas (g, kg, ml, l) ir chemijos priskyrimas kelioms vonioms\n• Kaištelių užkaišiojimo skaičiuoklė darbuotojams, kainą nustato direktorius\n• Pranešimas apie naują versiją ekrano kampe, nestabdantis darbo\n• Instrukcijos programoje su meniu; gamybos lapo spausdinimas su peržiūra ir parinktimis\n• Klientas procesų sąraše; kelių detalių pasirinkimas ir platesnė paieška; kainų atnaujinimas procesuose",
+    "version":  "1.1.1",
+    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.1.1/VOS_Setup_v1.1.1.exe",
+    "notes":  "• Užsakymų lange: filtras Tik vėluojančios ir suvestinė rodoma/iš viso (pozicijos, kiekis, plotas, kaina)\n• Aliuminio pasyvacijos procesams rodomi pasyvacijos pavadinimai (Laukia pasyvacijos, Pasyvacija vyksta…)\n• Klientas procesų sąraše Paruošėjui ir Anoduotojui\n• Atnaujintos instrukcijos",
     "mandatory":  true
 }
