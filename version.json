@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "url": "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.0.10/VOS_Setup_v1.0.10.exe",
-  "notes": "• Instrukcijos programoje su paieška (mygtukas „📖 Instrukcija“)\n• Vienas vartotojas – vienas prisijungimas; procesų užrakinimas\n• Gamybos lapo spausdinimas; kelių detalių įtraukimas į procesą iš karto\n• Pakuotojas ir Anoduotojas mato klientus; ilgi detalių kodai; žalia spalva\n• Daug smulkių pataisų ir patobulinimų",
-  "mandatory": true
+    "version":  "1.1.0",
+    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.1.0/VOS_Setup_v1.1.0.exe",
+    "notes":  "• Brokas: viso proceso ar dalies pozicijų (net dalinio kiekio) grąžinimas į anodavimą perdarymui\n• Pakavimas žymimas kiekvienai pozicijai atskirai; procesas užsibaigia pats\n• Smėliavimas su kaina ir koeficientu užsakymuose\n• Chemijos papildymas (g, kg, ml, l) ir chemijos priskyrimas kelioms vonioms\n• Kaištelių užkaišiojimo skaičiuoklė darbuotojams, kainą nustato direktorius\n• Pranešimas apie naują versiją ekrano kampe, nestabdantis darbo\n• Instrukcijos programoje su meniu; gamybos lapo spausdinimas su peržiūra ir parinktimis\n• Klientas procesų sąraše; kelių detalių pasirinkimas ir platesnė paieška; kainų atnaujinimas procesuose",
+    "mandatory":  true
 }
