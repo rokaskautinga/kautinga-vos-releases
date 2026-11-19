@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.3",
-    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.2.3/VOS_Setup_v1.2.3.exe",
-    "notes":  "• Naujas meniu Sąskaitos (Gamybos vadovas, Direktorius): supakuotos pozicijos su važtaraščiu, varnelė žalsvai nuspalvina išrašytas sąskaitas, eksportas į Excel\n• Po atnaujinimo iš pranešimo darbuotojas automatiškai prijungiamas atgal\n• Pataisyta suspausta lentelė Paruošėjo ir Pakuotojo formose kai kuriuose kompiuteriuose\n• Atnaujintos instrukcijos",
+    "version":  "1.2.4",
+    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.2.4/VOS_Setup_v1.2.4.exe",
+    "notes":  "• Langus galima mažinti, tempti ir prisegti prie ekrano pusės (visos darbo vietos), siaurame lange pozicijų lentelės gauna slinktį\n• Istorijoje pataisyti kiekiai ir plotas (anksčiau rodė 3 kartus per daug)\n• Sąskaitos: tos pačios detalės iš kelių procesų sujungiamos į vieną eilutę, naudojama dabartinė kaina kai išsaugota 0\n• Direktoriaus formoje meniu Sąskaitos rodo sąskaitas (anksčiau rodė žurnalą)\n• Atnaujintos instrukcijos",
     "mandatory":  true
 }
