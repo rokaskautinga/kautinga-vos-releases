@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.2",
-    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.2.2/VOS_Setup_v1.2.2.exe",
-    "notes":  "• Pataisytas likutis detalių pasirinkime: skaičiuojamas iš tikrų proceso pozicijų, todėl nebelieka neįtraukiamų detalių po ištrinto ar pakeisto proceso\n• Atnaujintos instrukcijos",
+    "version":  "1.2.3",
+    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.2.3/VOS_Setup_v1.2.3.exe",
+    "notes":  "• Naujas meniu Sąskaitos (Gamybos vadovas, Direktorius): supakuotos pozicijos su važtaraščiu, varnelė žalsvai nuspalvina išrašytas sąskaitas, eksportas į Excel\n• Po atnaujinimo iš pranešimo darbuotojas automatiškai prijungiamas atgal\n• Pataisyta suspausta lentelė Paruošėjo ir Pakuotojo formose kai kuriuose kompiuteriuose\n• Atnaujintos instrukcijos",
     "mandatory":  true
 }
