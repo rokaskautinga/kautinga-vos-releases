@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.8",
-    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.2.8/VOS_Setup_v1.2.8.exe",
-    "notes":  "• Brokas: brokuotos detalės grąžinamos į tą patį užsakymą kaip pozicija „KODAS brokas“ (atskiras perdarymo procesas nebekuriamas); Gamybos vadove rodomas pranešimas „Laukia perdarymo“, brokas įtraukiamas į procesą įprastai\n• Direktorius: naujas meniu „Darbuotojų našumas“ – pakuotojų ir paruošėjų detalių (vnt.) ir ploto (dm²) suvestinė pagal dieną / savaitę / mėnesį\n• Paruošėjas: procesą galima peržiūrėti prieš pradedant ruošimą, mygtukas „Pradėti ruošimą“ – proceso viršuje\n• Naujas mygtukas „Pranešti apie klaidą“ kairiojo meniu apačioje (laiškas administratoriui admin@kautinga.lt); Administratoriui – „Pašto nustatymai“\n• Emoji visose formose dabar spalvoti\n• Užkrovimo grafike vonių antraštės aukštesnės, telpa visas tekstas\n• Gamybos vadovo filtrai kairiajame meniu be slinkties\n• Pataisytos lietuviškos raidės pranešimuose paleidžiant programą ir instrukcijose\n• Atnaujintos instrukcijos",
+    "version":  "1.2.9",
+    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.2.9/VOS_Setup_v1.2.9.exe",
+    "notes":  "• „Pranešti apie klaidą“ dabar siunčia pranešimą tiesiai el. paštu administratoriui (admin@kautinga.lt) – pašto programos atidaryti nebereikia; ekrano nuotrauka pridedama prie laiško\n• Pašto nustatymai jau užpildyti (Administratoriui – „Pašto nustatymai“, galima siųsti bandomąjį laišką)\n• Atnaujintos instrukcijos",
     "mandatory":  true
 }
