@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.6",
-    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.2.6/VOS_Setup_v1.2.6.exe",
-    "notes":  "• Procesų sujungimas: mygtukas „Sujungti su kitu…“ prijungia procesą (pvz. brokuotų detalių perdarymą) prie kito proceso\n• Procese galima pridėti detalę be užsakymo (iš Detalių sąrašo arba naują) su ranka įvedamu tipu, spalva, plotu, kaina ir kiekiu\n• Užsakymui galima įvesti bendrą kainą ranka – sąskaita išrašoma pagal ją\n• Užsakymai ir Detalės: paieška ir filtrai kairiame meniu\n• Nauja „Žali dažai“ vonios kortelė\n• PDF brėžiniai atsidaro pačioje VOS (be Foxit saugumo įspėjimo)\n• Atnaujintos instrukcijos",
+    "version":  "1.2.7",
+    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.2.7/VOS_Setup_v1.2.7.exe",
+    "notes":  "• Detalės istorija: Detalių lentelėje naujas stulpelis „Istorija“ – dukart spustelėjus matomi detalės užsakymai, o dar kartą dukart spustelėjus užsakymą – jo procesai, anodavimas / pasyvacija, pakavimas, važtaraštis ir sąskaita\n• Sąskaitos: užbaigti pasyvacijos procesai dabar atsiranda sąskaitų lentelėje; mygtukas „Sąskaita išrašyta…“ įrašo numerį visoms pažymėtoms eilutėms\n• Pakuotojas: stulpelis „Gauta, vnt.“ gaunamas tuščias – kiekį įveda pakuotojas; be jo „Supakuota?“ nepasirinksi\n• Nauja vonios kortelė „Grafitiniai dažai“ (Anoduotojas)\n• Naujos dangos spalvos „Grafitinė“ ir „Grafitinė matinė“\n• Sąrašai po įvedimo ar redagavimo nebeperšoka į pradžią – išlaikoma slinkties vieta ir pažymėta eilutė (visose darbo vietose)\n• Paruošėjas: nauja instrukcija „Kablių instrukcija“ (kokias aliuminio klases galima kabinti ant to paties kablio)\n• Visose darbo vietose instrukcija perkelta į kairįjį meniu ir pavadinta „Programos vadovas“\n• Atnaujinimo langas padidintas, pakeitimų tekstas slenkamas\n• Pašalinta sena Darbuotojo darbo vieta\n• Atnaujintos instrukcijos",
     "mandatory":  true
 }
