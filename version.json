@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.9",
-    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.2.9/VOS_Setup_v1.2.9.exe",
-    "notes":  "• „Pranešti apie klaidą“ dabar siunčia pranešimą tiesiai el. paštu administratoriui (admin@kautinga.lt) – pašto programos atidaryti nebereikia; ekrano nuotrauka pridedama prie laiško\n• Pašto nustatymai jau užpildyti (Administratoriui – „Pašto nustatymai“, galima siųsti bandomąjį laišką)\n• Atnaujintos instrukcijos",
+    "version":  "1.3.0",
+    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.3.0/VOS_Setup_v1.3.0.exe",
+    "notes":  "• Sąskaitų išrašymas: skiltyje „Sąskaitos“ naujas mygtukas „Išrašyti sąskaitą…“ – sąskaita išrašoma pažymėtoms arba išfiltruotoms to paties kliento pozicijoms. Atsidaro langas su užpildytomis detalėmis, kuriame galima keisti kainas, nuolaidas, PVM, pirkėjo ir pardavėjo duomenis; sukuriamas PVM sąskaitos faktūros PDF pagal šabloną, pozicijos pažymimos kaip išrašytos. Išrašytą sąskaitą galima atidaryti mygtuku „Atidaryti sąskaitą“\n• Sąskaitų filtrai perkelti į kairįjį meniu ir papildyti: klientas, užsakymo nr., gamybos nr., tipas / spalva (galima pasirinkti kelias), supakuota\n• Langai prisimena, kaip juos pritaikėte: dydį, vietą, išdidinimą, kairiojo meniu plotį (galima tempti), lentelių stulpelių plotį ir skiriamąsias juostas. Visus langus ir dialogus galima keisti dydį\n• Lietuviški mygtukai pranešimų languose (Taip / Ne / Atšaukti / Gerai); pataisyta klaida, dėl kurios programa „dingdavo“ perkėlus ją į antrą monitorių\n• Mobili VOS versija telefonui: https://vos.kautinga.lt (Direktoriui, Gamybos vadovui, Vadybininkui ir Administratoriui – iš bet kur su 2FA; visos kitos formos – įmonės tinkle)\n• Atnaujintos instrukcijos",
     "mandatory":  true
 }
