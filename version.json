@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.3",
-    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.3.3/VOS_Setup_v1.3.3.exe",
-    "notes":  "• Stulpelis „Metalas“ visose lentelėse, kuriose rodomos detalės (proceso pozicijos, procesų istorija, detalių pasirinkimo langai, brokavimo langas, sąskaitų skydelis) – po „Spalva“ (pasyvacijos procesuose po „Tipas“)\n• Atnaujintos instrukcijos",
+    "version":  "1.3.4",
+    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.3.4/VOS_Setup_v1.3.4.exe",
+    "notes":  "• Naujas meniu „Užklausos“ visose formose: ką nupirkti / padaryti / patobulinti darbo vietai\n• Anoduotojui – „Laikmačiai“ (atgalinis skaičiavimas, garsinis signalas)\n• Paieška procesų sąraše: Paruošėjas, Anoduotojas, Pakuotojas (pagal procesą, klientą, detalę, užsakymą)\n• Direktoriaus statistika: Metai / Mėnuo / Diena, sumos kaip skiltyje „Sąskaitos“\n• Pataisyta: Pasyvuotojo ir Direktoriaus pradinis meniu, Pakuotojo pastabų įrašymas\n• Atnaujintos instrukcijos",
     "mandatory":  false
 }
