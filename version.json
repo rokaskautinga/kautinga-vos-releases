@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.5",
-    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.3.5/VOS_Setup_v1.3.5.exe",
-    "notes":  "• Sąskaitos: nemokamai perdaryti ir supakuoti vienetai įskaičiuojami (pvz. 9 + 11 perdaryta = 20 / 20)\n• „Atidaryti sąskaitą“ iškart atidaro sąskaitą (be klausimo)\n• Anoduotojui – patvirtinimas baigiant anodavimą\n• Gamybos vadovui – „Keisti būseną“ su visomis būsenomis ir automatiniu etapų suderinimu\n• Užklausose galima pridėti nuotraukų\n• Pataisyti Apskaitininko filtrai\n• Programos vadove – „VOS telefone“ (pradžios ekranas iPhone / Android)",
+    "version":  "1.3.6",
+    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.3.6/VOS_Setup_v1.3.6.exe",
+    "notes":  "• Naujas meniu „Sandėlis“: chemijos likučiai, pajamavimas, inventorizacija, minimali riba\n• Chemijos produktams – mato vienetas (ml, l, g, kg); masė ir tūris nemaišomi\n• Paruošėjas gali kelti nuotraukas ir po „Paruošta dengti“\n• Gamybos lape pataisyta data be termino, pastabos iki 2 eilučių\n• Įsimenama skiriamųjų juostų padėtis\n• Telefone 2FA prašoma rečiau",
     "mandatory":  false
 }
