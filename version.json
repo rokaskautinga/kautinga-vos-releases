@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.6",
-    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.3.6/VOS_Setup_v1.3.6.exe",
-    "notes":  "• Naujas meniu „Sandėlis“: chemijos likučiai, pajamavimas, inventorizacija, minimali riba\n• Chemijos produktams – mato vienetas (ml, l, g, kg); masė ir tūris nemaišomi\n• Paruošėjas gali kelti nuotraukas ir po „Paruošta dengti“\n• Gamybos lape pataisyta data be termino, pastabos iki 2 eilučių\n• Įsimenama skiriamųjų juostų padėtis\n• Telefone 2FA prašoma rečiau",
+    "version":  "1.3.7",
+    "url":  "https://github.com/rokaskautinga/kautinga-vos-releases/releases/download/v1.3.7/VOS_Setup_v1.3.7.exe",
+    "notes":  "• Nuotraukas galima ištrinti (✕ šalia nuotraukos)\n• Pelės ratukas slenka ir virš teksto ar laukelių\n• Užrašai atrodo kaip įprastas tekstas, bet juos galima pažymėti ir kopijuoti\n• Procesų sąraše dešiniuoju klavišu – „Keisti būseną“ (Pasyvuotojas, Gamybos vadovas)",
     "mandatory":  false
 }
